@@ -1,5 +1,5 @@
 # Camous-Career-Guide
-# CampusCareerGuide
+
 
 A desktop application developed using Python and the Tkinter library to provide information about alumni employed in various companies from Shri Vishnu Engineering College for Women.
 
